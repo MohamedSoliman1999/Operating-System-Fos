@@ -1,4 +1,4 @@
-# Operating-System19
+# Operating-System
 Operating system project (team of 5)
 
 As part of our Operating Systems’ course, our project is to implement the memory management module, handling user programs, applying
